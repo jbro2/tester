@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">carSearcher</string>
+    <string name="searchCars">Search Cars</string>
+    <string name="postCars">Post Cars</string>
+    <string name="postCarsHere">Here you can post cars!</string>
+    <string name="searchCarsHere">Here you can search cars!</string>
+</resources>
